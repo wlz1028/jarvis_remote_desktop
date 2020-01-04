@@ -171,6 +171,7 @@ tar xzf ideaIC-2019.1.3.tar.gz
 mkdir ~/apps
 mv idea-IC-191.7479.19 ~/apps
 cd ~/apps/idea-IC-191.7479.19/
+./bin/idea.sh
 
 #diable android and swing plugins
 #install scala plugin
